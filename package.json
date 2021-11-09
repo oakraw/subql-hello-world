@@ -1,5 +1,5 @@
 {
-  "name": "subqlHelloworld",
+  "name": "subql-hello-world",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
